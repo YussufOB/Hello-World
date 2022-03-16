@@ -22,9 +22,9 @@
 
 👤 **Bashir Yussuf Olamilekan (Bash)**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@YussufOB](https://github.com/YussufOB)
+- Twitter: [@_ybash](https://twitter.com/_ybash)
+- LinkedIn: [YussufOB](https://linkedin.com/in/YussufOB)
 
 
 ## 🤝 Contributing
@@ -34,6 +34,12 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
