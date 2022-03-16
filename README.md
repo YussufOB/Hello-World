@@ -2,7 +2,7 @@
 
 # Hello World
 
-> This project contains h1 tag with text "Hello Microverse" in my favourite colour (blueviolet).
+> This project is name "Hello World" and contain h1 element with text "Hello Microverse" in my favourite colour (blueviolet).
 
 
 ## Built With
