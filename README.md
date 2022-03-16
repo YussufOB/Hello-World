@@ -2,7 +2,7 @@
 
 # Hello Microverse Project
 
-> Contains "Hello Microverse header with color styling alone.
+> This is "Hello Microverse project contains h1 text which says "Hello Microverse" with my favourite colour (blueviolet).
 
 
 ## Built With
